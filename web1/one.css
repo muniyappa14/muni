@@ -1,0 +1,6 @@
+.h1{background-color: aqua;}
+.h2{font-style: italic; background-color: blue;}
+.h3{background-color: brown;
+    border: 10;
+    text-align: start;}
+.p{background-color: bisque; font-size: medium; text-decoration: solid;}
